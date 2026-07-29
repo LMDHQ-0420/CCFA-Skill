@@ -60,7 +60,7 @@ code/
   src/                  # Core model and training code
   scripts/              # Run scripts (train.sh, evaluate.sh, ablation.sh)
   configs/              # Hyperparameter config files
-  baselines/            # Baseline model implementations
+  src/models/baseline/  # Baseline implementations (interface matches main model)
   notebooks/            # Visualization notebooks; paper figure/table generation
   data/                 # Datasets (gitignored)
   results/              # Experiment results (gitignored)

@@ -61,7 +61,7 @@ code/
   src/                  # Core model and training code
   scripts/              # Run scripts (train.sh, evaluate.sh, ablation.sh)
   configs/              # Hyperparameter config files
-  baselines/            # Baseline model implementations
+  src/models/baseline/  # Baseline implementations (interface matches main model)
   notebooks/            # Visualization notebooks; paper figure/table generation
   data/                 # Datasets (gitignored)
   results/              # Experiment results (gitignored)
@@ -133,7 +133,8 @@ After the code review passes:
 Phase E complete. Code review passed — code is runnable and logically
 consistent with the design.
 
-→ Use `/research[F]-paper` to start paper writing.
+→ If experiment results fall short, use `/research[F]-iteration` to enter the Code Iteration phase.
+→ If experiment results are satisfactory, use `/research[G.0]-plan` to enter the Paper Writing phase.
 ```
 
 ---

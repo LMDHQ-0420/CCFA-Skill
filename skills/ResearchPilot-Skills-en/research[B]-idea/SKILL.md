@@ -60,7 +60,7 @@ code/
   src/                  # Core model and training code
   scripts/              # Run scripts (train.sh, evaluate.sh, ablation.sh)
   configs/              # Hyperparameter config files
-  baselines/            # Baseline model implementations
+  src/models/baseline/  # Baseline implementations (interface matches main model)
   notebooks/            # Visualization notebooks; paper figure/table generation
   data/                 # Datasets (gitignored)
   results/              # Experiment results (gitignored)
@@ -138,13 +138,7 @@ After Part 2 is fully confirmed:
 ```
 Phase B complete. idea_report.md Part 2 has been generated.
 
-After Part 2 is fully confirmed:
-
-```
-Phase B complete. idea_report.md Part 2 has been generated.
-
 → Use `/research[C]-experiment` to enter the Experiment Design phase.
-```
 ```
 
 ---

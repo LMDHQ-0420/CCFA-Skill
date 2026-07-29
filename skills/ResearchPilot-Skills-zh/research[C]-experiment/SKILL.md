@@ -61,7 +61,7 @@ code/
   src/                  # 核心模型与训练代码
   scripts/              # 运行脚本（train.sh、evaluate.sh、ablation.sh）
   configs/              # 超参数配置文件
-  baselines/            # Baseline 模型实现
+  src/models/baseline/  # Baseline 模型实现（接口与主模型一致）
   notebooks/            # 可视化 notebook；论文图表生成脚本
   data/                 # 数据集（gitignored）
   results/              # 实验结果（gitignored）
@@ -117,13 +117,7 @@ Part 3 确认后，提示用户：
 ```
 阶段 C 完成。idea_report.md Part 3 已生成。
 
-Part 3 确认后，提示用户：
-
-```
-阶段 C 完成。idea_report.md Part 3 已生成。
-
 → 请使用 `/research[D]-implementation` 进入实现设计阶段。
-```
 ```
 
 ---

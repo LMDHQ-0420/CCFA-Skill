@@ -58,7 +58,7 @@ code/
   src/                  # 核心模型与训练代码
   scripts/              # 运行脚本（train.sh、evaluate.sh、ablation.sh）
   configs/              # 超参数配置文件
-  baselines/            # Baseline 模型实现
+  src/models/baseline/  # Baseline 模型实现（接口与主模型一致）
   notebooks/            # 可视化 notebook；论文图表生成脚本
   data/                 # 数据集（gitignored）
   results/              # 实验结果（gitignored）
@@ -125,7 +125,8 @@ E-8 实验效果不佳 → 回溯调整 idea/实验设计（B/C/D 全链路，�
 ```
 阶段 E 完成。代码审查通过，代码可运行且逻辑与设计一致。
 
-→ 请使用 `/research[F]-paper` 开始论文撰写。
+→ 若实验结果未达预期，请使用 `/research[F]-iteration` 进入代码迭代阶段。
+→ 若实验结果已满意，请使用 `/research[G.0]-plan` 进入论文写作阶段。
 ```
 
 ---
