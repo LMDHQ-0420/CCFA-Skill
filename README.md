@@ -226,3 +226,9 @@ ls ~/.claude/skills/ | grep research
 ## 许可证
 
 MIT License — 见 [LICENSE](LICENSE)
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LMDHQ-0420/ResearchPilot-Skills&type=Date)](https://star-history.com/#LMDHQ-0420/ResearchPilot-Skills&Date)

@@ -213,3 +213,9 @@ The paper writing phase (G.1–G.7) writing framework, section guidelines, and e
 ## License
 
 MIT License — see [LICENSE](LICENSE)
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LMDHQ-0420/ResearchPilot-Skills&type=Date)](https://star-history.com/#LMDHQ-0420/ResearchPilot-Skills&Date)
