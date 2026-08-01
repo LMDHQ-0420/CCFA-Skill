@@ -225,7 +225,13 @@ ls ~/.claude/skills/ | grep research
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/chart?repos=LMDHQ-0420/ResearchPilot-Skills&type=date&legend=top-left&sealed_token=IltPC-yhq4XX_TcD2-J1LSKQP6pMqrTSgSzEjyk4Yk1rtjz81_5nxLhkqOopVaKJl5ibQuiWR_xgbI3BoPUQz98jMDn1sGD_qsHy1ueS4Se2mAtBBziKdQ)](https://www.star-history.com/?repos=LMDHQ-0420%2FResearchPilot-Skills&type=date&legend=top-left)
+<a href="https://www.star-history.com/?repos=LMDHQ-0420%2FResearchPilot-Skills&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=LMDHQ-0420/ResearchPilot-Skills&type=date&theme=dark&legend=top-left&sealed_token=fhKsgvdJc2jp-V007re3yGtGBaWSrmgX9LnL4uL-kFo-Vrt0-w3RADoI4mjJmZ8KpgtZvdvpa_IgZHbrdIjwIjXzicFCG3ZkBImKm0DqGt5J-vkp8tpzxEpkXSLXoIFsAa33ZLGgavfb0EPPZgKJaUkv6nxxJyxo-fkGRNfgUG81m49aWBo8j0lmzWjL" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=LMDHQ-0420/ResearchPilot-Skills&type=date&legend=top-left&sealed_token=fhKsgvdJc2jp-V007re3yGtGBaWSrmgX9LnL4uL-kFo-Vrt0-w3RADoI4mjJmZ8KpgtZvdvpa_IgZHbrdIjwIjXzicFCG3ZkBImKm0DqGt5J-vkp8tpzxEpkXSLXoIFsAa33ZLGgavfb0EPPZgKJaUkv6nxxJyxo-fkGRNfgUG81m49aWBo8j0lmzWjL" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=LMDHQ-0420/ResearchPilot-Skills&type=date&legend=top-left&sealed_token=fhKsgvdJc2jp-V007re3yGtGBaWSrmgX9LnL4uL-kFo-Vrt0-w3RADoI4mjJmZ8KpgtZvdvpa_IgZHbrdIjwIjXzicFCG3ZkBImKm0DqGt5J-vkp8tpzxEpkXSLXoIFsAa33ZLGgavfb0EPPZgKJaUkv6nxxJyxo-fkGRNfgUG81m49aWBo8j0lmzWjL" />
+ </picture>
+</a>
 
 ---
 
