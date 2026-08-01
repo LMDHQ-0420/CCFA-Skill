@@ -218,4 +218,10 @@ MIT License — see [LICENSE](LICENSE)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LMDHQ-0420/ResearchPilot-Skills&type=Date)](https://star-history.com/#LMDHQ-0420/ResearchPilot-Skills&Date)
+<a href="https://www.star-history.com/?repos=LMDHQ-0420%2FResearchPilot-Skills&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=LMDHQ-0420/ResearchPilot-Skills&type=date&theme=dark&legend=top-left&sealed_token=IltPC-yhq4XX_TcD2-J1LSKQP6pMqrTSgSzEjyk4Yk1rtjz81_5nxLhkqOopVaKJl5ibQuiWR_xgbI3BoPUQz98jmDn1sGD_qsHy1ueS4Se2mAtBBziKdQ" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=LMDHQ-0420/ResearchPilot-Skills&type=date&legend=top-left&sealed_token=IltPC-yhq4XX_TcD2-J1LSKQP6pMqrTSgSzEjyk4Yk1rtjz81_5nxLhkqOopVaKJl5ibQuiWR_xgbI3BoPUQz98jmDn1sGD_qsHy1ueS4Se2mAtBBziKdQ" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=LMDHQ-0420/ResearchPilot-Skills&type=date&legend=top-left&sealed_token=IltPC-yhq4XX_TcD2-J1LSKQP6pMqrTSgSzEjyk4Yk1rtjz81_5nxLhkqOopVaKJl5ibQuiWR_xgbI3BoPUQz98jmDn1sGD_qsHy1ueS4Se2mAtBBziKdQ" />
+ </picture>
+</a>
